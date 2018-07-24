@@ -15,8 +15,8 @@ namespace CometChatSample
         CometChat cometchat;
         readyUIFIle readyUIFile;
         String siteurl = "";
-        String licenseKey = "COMETCHAT-V528X-727B9-XUDUT-WE44H"; // Replace the value with your CometChat License Key here
-        String apiKey = "50025xbe4a6bf14d71cac411d09632401df1de"; // Replace the value with your CometChat API Key here
+        String licenseKey = "COMETCHAT-XXXXX-XXXXX-XXXX-XXXXX"; // Replace the value with your CometChat License Key here
+        String apiKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxx"; // Replace the value with your CometChat API Key here
         Boolean isCometOnDemand = true;
         private String UID1 = "SUPERHERO1";
         private String UID2 = "SUPERHERO2";
