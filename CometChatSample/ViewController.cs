@@ -1,6 +1,6 @@
 ﻿using System;
 using CometChatBinding;
-using cometchatui;
+using CometChatUI;
 using Firebase.Auth;
 using Firebase.Core;
 using Firebase.Database;
